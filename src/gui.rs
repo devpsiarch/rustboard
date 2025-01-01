@@ -145,4 +145,3 @@ impl GUI {
         return true;
     }
 }
-
